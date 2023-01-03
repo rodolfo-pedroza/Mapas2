@@ -242,7 +242,7 @@ export default {
       <!-- <Image /> -->
      <div class="container">
         <div class="mx-auto">
-          <Image ref="child" :cat="this.selected1" :year="selected2" :month="selected3" />
+          <Image ref="child" :cat="selected1" :year="selected2" :month="selected3" />
        </div>
      </div>
     <!-- </div> -->
